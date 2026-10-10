@@ -1,5 +1,5 @@
 # Sunrise Public School
-Office hours: 9 am to 4 pm
+Office hours: 9 am to 5 pm
 Contact: office@sunrise.example
 
 
